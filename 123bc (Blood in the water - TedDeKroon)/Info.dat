@@ -1,0 +1,39 @@
+{
+  "_version": "2.0.0",
+  "_songName": "Blood in the water",
+  "_songSubName": "",
+  "_songAuthorName": "Grandson",
+  "_levelAuthorName": "TedDeKroon",
+  "_beatsPerMinute": 154,
+  "_previewStartTime": 12,
+  "_previewDuration": 10,
+  "_songTimeOffset": 0,
+  "_shuffle": 0,
+  "_shufflePeriod": 0.5,
+  "_coverImageFilename": "cover.png",
+  "_songFilename": "song.egg",
+  "_environmentName": "PanicEnvironment",
+  "_allDirectionsEnvironmentName": "GlassDesertEnvironment",
+  "_customData": {
+    "_editors": {
+      "_lastEditedBy": "ChroMapper",
+      "ChroMapper": {
+        "version": "0.7.0"
+      }
+    }
+  },
+  "_difficultyBeatmapSets": [
+    {
+      "_beatmapCharacteristicName": "Standard",
+      "_difficultyBeatmaps": [
+        {
+          "_difficulty": "Expert",
+          "_difficultyRank": 7,
+          "_beatmapFilename": "ExpertStandard.dat",
+          "_noteJumpMovementSpeed": 16,
+          "_noteJumpStartBeatOffset": 0
+        }
+      ]
+    }
+  ]
+}

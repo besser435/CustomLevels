@@ -1,0 +1,23 @@
+{
+	"videoID": "LNOGN9jXGYA",
+	"title": "grandson - We Did It!!! [OFFICIAL VISUALIZER]",
+	"author": "grandson",
+	"videoFile": "grandson - We Did It!!! [OFFICIAL VISUALIZER].mp4",
+	"duration": 169,
+	"offset": -2140,
+	"configByMapper": true,
+	"loop": false,
+	"screenHeight": 25,
+	"transparency": false,
+	"screenPosition": {
+		"x": 0.0,
+		"y": 12,
+		"z": 125
+	},
+	"vignette": {
+		"type": "elliptical",
+		"radius": 0,
+		"softness": 0.1
+	},
+	"disableBigMirrorOverride": true
+}
